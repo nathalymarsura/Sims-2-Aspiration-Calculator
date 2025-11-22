@@ -1,14 +1,17 @@
 🌟 Sims 2 Asp Calculator
 
 📝 About the Project
+
 This is a Front-end project that simulates the logic for assigning Primary and Secondary Aspirations from the The Sims 2 game, combining Sim personality traits, horoscope sign, and interests.
 The design has been carefully crafted to evoke the nostalgic and technical interface of The Sims 2, utilizing neon colors, gradients, transparency effects, and a plumbob-like aesthetic.
 
 🖥️ Technologies Used
+
 The project is built entirely using the fundamental web technologies:
 HTML5, CSS3 and JavaScript.
 
 ⚙️ How the Calculation Works
+
 The aspiration is determined by a weighted scoring system based on three main factors:
 
 1. Primary Aspiration (Sign)
